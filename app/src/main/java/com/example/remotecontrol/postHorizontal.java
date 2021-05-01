@@ -7,6 +7,7 @@ public class postHorizontal {
     public postHorizontal(int Id, int Horizontal){
         this.IdObj=Id;
         this.horizontal=Horizontal;
+
     }
 
     public String getMessage(){return message;}
